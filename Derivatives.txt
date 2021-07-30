@@ -1,0 +1,33 @@
+f(a) = 3*a
+
+f(2) = 6
+
+f(5) = 15
+
+slope of f(a) Or d/da f(a) = height/width 
+
+Slope of a straight line -- does not change!
+
+f(2) = 6 = 6/2 = 3
+f(2.001) = 6.003/2.001 = 3 .. when a is nudged up by a tiny 0.001 the value of the function goes up 3 times!
+
+f(5) = 15 = 15/5 = 3
+f(5.001) = 15.003/5.001 = 3
+
+-----------------------------------------
+
+f(a) = a*a
+
+f(2) = 4
+f(2.001) = 4.004001 .. when a is nudged up by 0.001 the f(a) goes up 4 times
+
+f(5) = 25
+f(5.001) = 25.010001 .. when a is nudged up 0.001 the f(a) goes up by 10 times
+
+Hence, it is not since it is not a straight line - the slope is different at different points!
+
+The slope or derivative of f(a) w.r.t a is given as:
+
+df(a)
+----- = 2*a 
+da 
